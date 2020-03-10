@@ -5,4 +5,4 @@ Extended version of the original QwtPlot3D library
 
 ## Screenshot 效果图
 
-![screenshot](screenshot/screenshot.png)
+![screenshot](https://github.com/lsyefficient/qwtplot3d/blob/master/screenshot/autoswitch.png)
